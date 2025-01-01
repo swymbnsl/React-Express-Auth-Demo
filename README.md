@@ -111,8 +111,7 @@ Even now, we have many more things to keep in mind such as input validations, pr
 
 ## And what about JWT based auth?
 
-JWT based auth is another widely imple### Did it help you?
-mented auth method. It's a stateless auth method, meaning we don't need to store the session in database
+JWT based auth is another widely implemented auth method. It's a stateless auth method, meaning we don't need to store the session in database
 
 I might cover that one later.
 
